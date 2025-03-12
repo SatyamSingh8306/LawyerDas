@@ -1,4 +1,4 @@
-# LqwyerDas (RAG) Application
+# LawyerDas (RAG) Application
 
 ## 📌 Project Overview
 This project implements a **Retrieval-Augmented Generation (RAG) pipeline**, leveraging **DeepSeek R1, FAISS, Ollama, and Groq** to enhance language model responses with relevant document retrieval. Users can upload PDFs, and the chatbot will provide accurate answers based on retrieved document embeddings.
