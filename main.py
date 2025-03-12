@@ -7,11 +7,11 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 
-"""
-Here Everthing is connected to make a pipeline So that Process become Smoother and Easier.
-Check d/f functions 
-note: deepseek-r1:1.5b model is used locally using ollama.(don't forget to download it)
-"""
+# """
+# Here Everthing is connected to make a pipeline So that Process become Smoother and Easier.
+# Check d/f functions 
+# note: deepseek-r1:1.5b model is used locally using ollama.(don't forget to download it)
+# """
 
 
 custom_prompt_template = """
