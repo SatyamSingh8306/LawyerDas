@@ -49,7 +49,7 @@ streamlit run app.py
 4. **Groq generates responses** based on the retrieved context.
 
 ## 🏗️ Architecture
-![RAG Architecture](./assets/rag_architecture.png)
+![RAG Architecture](./assets/rag_architect.png)
 
 ## 📷 UI Interface
 ![RAG Architecture](./assets/ui_screenshot.png)
